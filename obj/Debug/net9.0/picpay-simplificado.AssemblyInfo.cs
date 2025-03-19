@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("picpay-simplificado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfb8217e339dad32801c7b3ba8fe25afacbd319e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67993f2b10f7e0e99b3632d5c601663e6d5ee1f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("picpay-simplificado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("picpay-simplificado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
